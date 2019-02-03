@@ -7,9 +7,9 @@ scikit learn library in Python
 Scikit learn has a function for loading the iris dataset
 The dataset can bve imported in CSV format at 
 https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv
+good luck
 '''
 
-from sklearn.datasets import load_iris
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
